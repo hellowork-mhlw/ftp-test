@@ -14,3 +14,4 @@ jobs:
         server: sv14460.xserver.jp
         username: test@xs679698.xsrv.jp
         password: ${{ secrets.ftp_password }}
+        server-dir: xs679698.xsrv.jp/public_html/
