@@ -8,7 +8,7 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@v3
     
-    - name: 📂 Sync files
+    - name: 📂 Sync files2
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: sv14460.xserver.jp
